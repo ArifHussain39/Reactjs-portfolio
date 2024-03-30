@@ -1,6 +1,13 @@
 # Developer Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+### Check out my personal portfolio built with React, Tailwind CSS, and Next.js. It's the one-stop destination to learn about my skills, experiences, and projects. With a clean and responsive design, this portfolio offers a glimpse into my journey as a web developer. Dive in to explore my work and get in touch. Let's create something remarkable together!
+
+
+
+
+
+
+
 
 ---
 
@@ -106,12 +113,12 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Web Developer",
   description: "My name is Arif Hussain....",
-  email: "arif.hussain@exdigitals.net",
+  email: "arifhussain@exdigitals.net",
   phone: "+923163401145",
   address: "Sukkur, Pakistan",
   github: "https://github.com/arifhussain39",
   facebook: "",
-  linkedIn: "https://www.linkedin.com/in/arif-hussain-chohan/",
+  linkedIn: "",
   twitter: "",
   stackOverflow: "",
   leetcode: "",

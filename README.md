@@ -15,7 +15,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://reactjs-arif.vercel.app/).
+## View live preview [here](https://arifhussain.vercel.app/).
 
 ---
 

@@ -7,7 +7,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Al Hamra Medical Center - Hospital Website',
-        description: " ",
+        description: "Al-Hamra Medical Center's bespoke website solution in Karachi integrates front-end and back-end functionalities, developed using JavaScript, PHP, MySQL, HTML5, and CSS. Leveraging version control with Git on GitHub, the team ensured data security and operational efficiency. The solution includes an intuitive admin panel for staff to manage site content and patient appointments, reflecting a commitment to advancing healthcare through technology. Visit www.ahmc.com.pk for more details.",
         tools: ['Apache Web Server', 'MySQL', 'PHP', 'Password-Hashing', 'Javascript', 'Bootstrap', 'CSS', 'HTML5'],
         role: 'Backend Developer',
         code: '',
@@ -17,8 +17,8 @@ export const projectsData = [
     {
         id: 2,
         name: 'FBD System - Web Based Business Solution',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['Apache Web Server', 'MySQL', 'PHP', 'Password-Hashing', 'Javascript', 'Bootstrap', 'CSS', 'HTML5'],
+        description:" The client sought a streamlined solution for their account management needs, prompting the development of a web-based system with a user-friendly interface. The goal was to enhance account management, elevate customer satisfaction, and ensure ease of use. The resulting web app boasted several key features: 1) User login and registration: Secure account creation and login functionality. 2) Dashboard: Customizable overview of account information and metrics. 3) Account management: Ability to update contact details, billing information, and view payment history. 4) Service management: Users could manage subscribed services, including upgrades or downgrades. 5) Communication center: Secure messaging for user support. I spearheaded the design and development of the app, covering both front-end and back-end aspects, employing cutting-edge web technologies. Rigorous testing was conducted to ensure reliability. I anticipated a successful deployment, with ongoing support and maintenance guaranteed for continued smooth operation.",
+        tools: ['Apache Web Server', 'MySQL', 'SMS-Api' , 'PHP', 'WhatsApp-Api', 'Password-Hashing', 'Javascript', 'Bootstrap', 'CSS', 'HTML5'],
         role: 'Full Stack Developer',
         code: '',
         demo: '',
@@ -27,8 +27,8 @@ export const projectsData = [
     {
         id: 3,
         name: 'Khushboo Beauty Parlor - Salon Website',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
+        description: "Designed and developed a dynamic salon website to enhance the client's online presence and facilitate seamless interaction with customers. The website features an intuitive user interface, showcasing services, pricing, and booking options, tailored to meet the specific needs of the salon industry.",
+        tools: ['Php', 'Bootstrap', 'CSS', 'Javascript', 'MySQL', 'HTML5', 'Git'],
         code: '',
         role: 'Full Stack Developer',
         demo: '',
@@ -37,14 +37,14 @@ export const projectsData = [
     {
         id: 4,
         name: 'Trupix - 3D Models Viewer',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
+        description: "Trupix is like a virtual showroom where you can explore various products up close and personal. From stylish furniture to trendy fashion pieces, Trupix lets you dive into detailed 3D models saved right in its collection and customize colors of products and also background color to match your vibe. It's an easy, immersive way to browse and interact with your favorite items, all from the comfort of your screen.",
+        tools: ['Three.js', 'Model-Viewer', 'Tailwind-CSS', 'Javascript', "Vercel"],
         code: '',
         demo: '',
         image: ayla,
         role: 'Full Stack Developer',
     }
-    
+
 ];
 
 

@@ -7,7 +7,7 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
-import { SiLeetcode } from "react-icons/si";
+import { FaInstagram } from "react-icons/fa";
 
 function HeroSection() {
   return (
@@ -54,19 +54,13 @@ function HeroSection() {
               <FaFacebook size={30} />
             </Link>
             <Link
-              href={personalData.leetcode}
+              href={personalData.instagram}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
-              <SiLeetcode size={30} />
+              <FaInstagram size={30} />
             </Link>
-            <Link
-              href={personalData.twitter}
-              target='_blank'
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
-            >
-              <FaTwitterSquare size={30} />
-            </Link>
+
           </div>
 
           <div className="flex items-center gap-3">

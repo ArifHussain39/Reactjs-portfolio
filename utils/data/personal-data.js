@@ -12,6 +12,7 @@ export const personalData = {
   twitter: '',
   stackOverflow: '',
   leetcode: "",
+  instagram: 'https://www.instagram.com/arif.hussain_/',
   devUsername: "arifhussain39",
   resume: "https://drive.google.com/file/d/1XeXKD2ty2ypDAt3cOOb0ChHVxl84_fq-/view?usp=sharing"
 }

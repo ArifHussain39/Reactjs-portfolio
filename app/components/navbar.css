@@ -1,0 +1,20 @@
+.underline-animation {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .underline-animation::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #ff69b4; /* pink color */
+    transition: width 0.3s ease;
+  }
+  
+  .underline-animation:hover::before {
+    width: 100%;
+  }
+  

@@ -22,19 +22,29 @@ function Navbar() {
             </a>
           </li>
           <li>
-            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#experience"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">EXPERIENCE</div></a>
+            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#experience">
+              <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">EXPERIENCE</div>
+            </a>
           </li>
           <li>
-            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#skills"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">SKILLS</div></a>
+            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#skills">
+              <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">SKILLS</div>
+            </a>
           </li>
           <li>
-            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#education"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">EDUCATION</div></a>
+            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#education">
+              <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">EDUCATION</div>
+            </a>
           </li>
           <li>
-            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#blogs"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">BLOGS</div></a>
+            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#blogs">
+              <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">BLOGS</div>
+            </a>
           </li>
           <li>
-            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">PROJECTS</div></a>
+            <a className="block px-4 py-2 no-underline outline-none hover:no-underline" href="#projects">
+              <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">PROJECTS</div>
+            </a>
           </li>
         </ul>
       </div>

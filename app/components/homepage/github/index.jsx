@@ -1,15 +1,11 @@
 // @flow strict
-
-import { experiences } from "@/utils/data/experience";
+"use client";
 import Image from "next/image";
-import { BsPersonWorkspace } from "react-icons/bs";
-import AnimationLottie from "../../helper/animation-lottie";
-import GlowCard from "../../helper/glow-card";
-import experience from '/public/lottie/code.json';
-
 import GitHubCalendar from 'react-github-calendar';
 
 function Github() {
+   
+
     return (
         <div id="githubcontribution" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
             <Image
@@ -31,18 +27,14 @@ function Github() {
             </div>
 
             <div className="flex justify-center my-5 lg:py-8">
-
-                <GitHubCalendar
-                    username="arifhussain39"
-                    colorScheme="dark"
-                    blockMargin={5}
-                    blockSize={20}
-                    fontSize={16}
-                    showWeekdayLabels={true}  
-                />
-
+            <GitHubCalendar
+            username="arifhussain39" 
+            colorScheme="dark"
+            blockMargin={5}
+            blockSize={20}
+             />
             </div>
-
+       
         </div>
     );
 };

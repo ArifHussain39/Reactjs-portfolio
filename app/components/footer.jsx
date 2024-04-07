@@ -15,17 +15,7 @@ function Footer() {
           <p className="text-sm">
             © Nextjs Portfolio by <Link target="_blank" href={personalData.linkedIn} className="text-[#16f2b3]">{personalData.name}</Link>
           </p>
-          <div className="flex items-center gap-5">
-            <Link
-              target="_blank"
-              href={personalData.github+"/Reactjs-portfolio"}
-              className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
-            >
-              <IoStar />
-              <span>Star</span>
-            </Link>
          
-          </div>
         </div>
       </div>
     </div >

@@ -14,5 +14,5 @@ export const personalData = {
   leetcode: "",
   instagram: 'https://www.instagram.com/arif.hussain_/',
   devUsername: "arifhussain39",
-  resume: "https://drive.google.com/file/d/1Z2tm_5mWBKQgvpFLjpI-MKNqQVo-kI1Y/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1cAf9Je78JdiuYHuf9R7Ljo4a3Dc-4VvT/view?usp=sharing"
 }

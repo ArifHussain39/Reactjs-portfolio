@@ -114,9 +114,13 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">NodeJS</span>
+                <span className="text-gray-400">{"', '"}</span> 
                 <span className="text-amber-300">PHP</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Express</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -124,7 +128,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Git</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Apache</span>
+                <span className="text-amber-300">GraphQL</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>

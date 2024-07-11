@@ -3,7 +3,7 @@ export const personalData = {
   profile: '/profile.png',
   designation: "Web Developer",
   description: "My name is Arif Hussain. I am a professional and enthusiastic Web developer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'arifhussain@exdigitals.net',
+  email: 'arif.bssef21@iba-suk.edu.pk',
   phone: '+923163401145',
   address: 'Sindh Society, Sukkur, Pakistan',
   github: 'https://github.com/arifhussain39',
